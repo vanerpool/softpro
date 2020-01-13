@@ -28,27 +28,27 @@
 
 # Эксперименты и выводы
 
-- [./experiments/margins.ipynb](../blob/master/experiments/margins.ipynb) 
+- [./experiments/margins.ipynb](../master/experiments/margins.ipynb) 
 \- итоговые формулы маржи, которые искались длительное время. 
 Как оказалось, обе формулы дают одинаковые
 чистые вероятности из кэфов после очищения.
-- [./experiments/margin_exploration.ipynb](../blob/master/experiments/margin_exploration.ipynb)
+- [./experiments/margin_exploration.ipynb](../master/experiments/margin_exploration.ipynb)
 \- Исследования касательно маржи, различные графики, 
 попытки найти зависимость ошибок и величины маржи. 
 В процессе работы никаких чётких зависимостей не было обнаружено.
-- [./experiments/skellam_system_solver.ipynb](../blob/master/experiments/skellam_system_solver.ipynb) 
+- [./experiments/skellam_system_solver.ipynb](../master/experiments/skellam_system_solver.ipynb) 
 \- попытка добавить кэф на ничью как модификационный параметр, 
 чтобы модельное распределение Скеллама лучше аппроксимировало 
 именно ничейный исход.
 - [./experiments/pinnacle_test_data.ipynb]() 
 \- вычисление ошибок модели на данных пиннакла (3 excel файла).
-- [./experiments/different_bookmakers.ipynb]() 
+- [./experiments/different_bookmakers.ipynb](../master/experiments/different_bookmakers.ipynb) 
 \- вычисление ошибок модели на кэфах разных букмекеров. 
-- <a name="a"></a> [./experiments/totals_hdp_polyfit.ipynb]() 
+- <a name="a"></a> [./experiments/totals_hdp_polyfit.ipynb](../master/experiments/totals_hdp_polyfit.ipynb) 
 \- попытка найти общие паттерны в изменениях кэфов между целыми, 
 четвертичными и половинчатыми тоталами. Успехом не увенчалась - 
 каждый матч имеет уникальную зависимость.
-- [./experiments/new_margin_and_tests.ipynb](/blob/master/experiments/new_margin_and_tests.ipynb) - все описанное выше 
+- [./experiments/new_margin_and_tests.ipynb](../master/experiments/new_margin_and_tests.ipynb) - все описанное выше 
 в одном ноутбуке. Его лучше не смотреть, т.к. что там происходит 
 будет понятно лишь автору.
  
